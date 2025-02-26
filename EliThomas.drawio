@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="dYAAqQN164_OkqlJN7os">
-    <mxGraphModel dx="1274" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,14 +57,11 @@
         <mxCell id="seVJ21GC20MgT60zQvt1-12" value="HR" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="seVJ21GC20MgT60zQvt1-10">
           <mxGeometry x="20" y="152" width="1182" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="seVJ21GC20MgT60zQvt1-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="seVJ21GC20MgT60zQvt1-12" source="seVJ21GC20MgT60zQvt1-17" target="seVJ21GC20MgT60zQvt1-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="seVJ21GC20MgT60zQvt1-17" value="&lt;font&gt;sends welcome email with forms&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="seVJ21GC20MgT60zQvt1-12">
           <mxGeometry x="25" y="39" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seVJ21GC20MgT60zQvt1-24" value="verify forms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="seVJ21GC20MgT60zQvt1-12">
-          <mxGeometry x="166" y="36" width="120" height="60" as="geometry" />
+          <mxGeometry x="161" y="36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seVJ21GC20MgT60zQvt1-26" value="are forms complete" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="seVJ21GC20MgT60zQvt1-12">
           <mxGeometry x="332" y="26" width="80" height="80" as="geometry" />
@@ -99,10 +96,10 @@
             <mxPoint x="153" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="seVJ21GC20MgT60zQvt1-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.425;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="seVJ21GC20MgT60zQvt1-10" source="seVJ21GC20MgT60zQvt1-20">
+        <mxCell id="seVJ21GC20MgT60zQvt1-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.425;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="seVJ21GC20MgT60zQvt1-10" source="seVJ21GC20MgT60zQvt1-20" target="seVJ21GC20MgT60zQvt1-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="252" y="145" as="sourcePoint" />
-            <mxPoint x="243" y="157" as="targetPoint" />
+            <mxPoint x="243" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="seVJ21GC20MgT60zQvt1-13" value="IT" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="seVJ21GC20MgT60zQvt1-10">
