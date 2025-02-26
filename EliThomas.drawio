@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="dYAAqQN164_OkqlJN7os">
-    <mxGraphModel dx="2049" dy="1083" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2351" dy="1083" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
           <mxGeometry x="698" y="126" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2jXrfPQ6RG7kjcsgaCJ-1" value="automatically update record and mark onboarding&amp;nbsp; as complete" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="seVJ21GC20MgT60zQvt1-12">
-          <mxGeometry x="1001" y="18" width="130" height="130" as="geometry" />
+          <mxGeometry x="838" y="21" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="seVJ21GC20MgT60zQvt1-13" value="IT" style="swimlane;startSize=20;horizontal=0;html=1;" parent="seVJ21GC20MgT60zQvt1-10" vertex="1">
           <mxGeometry x="20" y="449" width="1193" height="182" as="geometry">
@@ -144,11 +144,13 @@
             <mxPoint x="720" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k2jXrfPQ6RG7kjcsgaCJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="seVJ21GC20MgT60zQvt1-10" source="seVJ21GC20MgT60zQvt1-79" target="k2jXrfPQ6RG7kjcsgaCJ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="k2jXrfPQ6RG7kjcsgaCJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="seVJ21GC20MgT60zQvt1-10" source="seVJ21GC20MgT60zQvt1-26" target="seVJ21GC20MgT60zQvt1-67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2jXrfPQ6RG7kjcsgaCJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="seVJ21GC20MgT60zQvt1-10" source="seVJ21GC20MgT60zQvt1-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="922" y="277" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
