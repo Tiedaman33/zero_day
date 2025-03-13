@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="dYAAqQN164_OkqlJN7os">
-    <mxGraphModel dx="4115" dy="1595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2452" dy="1135" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         <mxCell id="seVJ21GC20MgT60zQvt1-75" value="confirm completion via email" style="whiteSpace=wrap;html=1;rounded=0;" parent="seVJ21GC20MgT60zQvt1-11" vertex="1">
           <mxGeometry x="842" y="26" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TXXZFqlOIVdVlZ8PvmXg-8" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="seVJ21GC20MgT60zQvt1-11">
+        <mxCell id="TXXZFqlOIVdVlZ8PvmXg-8" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="seVJ21GC20MgT60zQvt1-11">
           <mxGeometry x="26" y="110" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TXXZFqlOIVdVlZ8PvmXg-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="seVJ21GC20MgT60zQvt1-11" target="TXXZFqlOIVdVlZ8PvmXg-16">
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TXXZFqlOIVdVlZ8PvmXg-11" value="end&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="seVJ21GC20MgT60zQvt1-11">
+        <mxCell id="TXXZFqlOIVdVlZ8PvmXg-11" value="end&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="seVJ21GC20MgT60zQvt1-11">
           <mxGeometry x="1029" y="118" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TXXZFqlOIVdVlZ8PvmXg-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="seVJ21GC20MgT60zQvt1-11">
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="TXXZFqlOIVdVlZ8PvmXg-16" value="new employee hiired" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="seVJ21GC20MgT60zQvt1-11">
           <mxGeometry x="59" y="18" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TXXZFqlOIVdVlZ8PvmXg-18" value="onboarding complete&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="seVJ21GC20MgT60zQvt1-11">
+          <mxGeometry x="1029" y="14" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="seVJ21GC20MgT60zQvt1-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="seVJ21GC20MgT60zQvt1-10" source="seVJ21GC20MgT60zQvt1-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
